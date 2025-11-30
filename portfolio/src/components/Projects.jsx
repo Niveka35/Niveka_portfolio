@@ -9,6 +9,7 @@ import tic from "../assets/projects/tic.png";
 import ticv from "../assets/projects/tic.mp4";
 import weather from "../assets/projects/weather.png";
 import weatherv from "../assets/projects/weather.mp4";
+import bg from "../assets/hero-bg.jpg";
 
 const projects = [
   { 
@@ -66,8 +67,9 @@ function Projects() {
     : projects.filter(p => p.category === category);
 
   return (
-    <section className="projects section-bg" id="projects">
+    <section className="projects" style={{backgroundImage: `url(${bg})`}} id="projects">
       <h2>My Projects</h2>
+      <div className="underline"></div>
 
       {/* Category Buttons */}
       <div className="project-categories">

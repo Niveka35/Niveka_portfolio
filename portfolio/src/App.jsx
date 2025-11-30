@@ -6,6 +6,7 @@ import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
+import Education from "./components/Education";
 
 function App() {
   const [darkMode, setDarkMode] = useState(false);
@@ -20,6 +21,7 @@ function App() {
       <Header />
       <Hero />
       <About />
+      <Education />
       <Skills />
       <Projects />
       <Contact />
