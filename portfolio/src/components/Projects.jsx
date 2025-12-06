@@ -10,6 +10,8 @@ import ticv from "../assets/projects/tic.mp4";
 import weather from "../assets/projects/weather.png";
 import weatherv from "../assets/projects/weather.mp4";
 import bg from "../assets/hero-bg.jpg";
+import note from "../assets/projects/note.png";
+import notev from "../assets/projects/note.mp4";
 
 const projects = [
   { 
@@ -49,6 +51,13 @@ const projects = [
     img: weather, 
     video: weatherv, 
     desc: "API based weather app with dynamic UI.",
+    category: "HTML+CSS+JS"
+  },
+  { 
+    title: "Note App",
+    img: note, 
+    video: notev, 
+    desc: "Add important notes and delete likewise note manipulation.",
     category: "HTML+CSS+JS"
   },
 ];
