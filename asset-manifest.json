@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Niveka_portfolio/static/css/main.fb1e3f14.css",
+    "main.js": "/Niveka_portfolio/static/js/main.459194e8.js",
+    "static/media/bmi.mp4": "/Niveka_portfolio/static/media/bmi.38c8b3957b6680a5e3e9.mp4",
+    "static/media/tic.mp4": "/Niveka_portfolio/static/media/tic.373f5956975412365829.mp4",
+    "static/media/weather.mp4": "/Niveka_portfolio/static/media/weather.b0fde65e941d80812df0.mp4",
+    "static/media/img-gen.mp4": "/Niveka_portfolio/static/media/img-gen.97455ed02fae4f3a141c.mp4",
+    "static/media/music.mp4": "/Niveka_portfolio/static/media/music.a2f42101b426e8f3d690.mp4",
+    "static/media/img-gen.png": "/Niveka_portfolio/static/media/img-gen.973812a541261b249f25.png",
+    "static/media/bmi.png": "/Niveka_portfolio/static/media/bmi.91c480e8712cd5fd2fe1.png",
+    "static/media/hero-bg.jpg": "/Niveka_portfolio/static/media/hero-bg.16e0eb4a6217ef87589d.jpg",
+    "static/media/music.png": "/Niveka_portfolio/static/media/music.e3f85c1a555c25ac6a84.png",
+    "static/media/tic.png": "/Niveka_portfolio/static/media/tic.de43292794386602d030.png",
+    "static/media/weather.png": "/Niveka_portfolio/static/media/weather.8b66ed4c0cdf8cd64835.png",
+    "static/media/N.jpeg": "/Niveka_portfolio/static/media/N.72d38e9e9a2c08c346e1.jpeg",
+    "index.html": "/Niveka_portfolio/index.html",
+    "main.fb1e3f14.css.map": "/Niveka_portfolio/static/css/main.fb1e3f14.css.map",
+    "main.459194e8.js.map": "/Niveka_portfolio/static/js/main.459194e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb1e3f14.css",
+    "static/js/main.459194e8.js"
+  ]
+}
