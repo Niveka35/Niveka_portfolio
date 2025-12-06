@@ -2,8 +2,7 @@ import React from "react";
 import bg from "../assets/hero-bg.jpg";
 
 function Skills() {
-  // Hard skills with percentage
-  const hardSkills = [
+  const technicalSkills = [
     { name: "HTML", level: 95 },
     { name: "CSS", level: 85 },
     { name: "JavaScript", level: 85 },
@@ -20,8 +19,8 @@ function Skills() {
     <section className="skills" style={{backgroundImage: `url(${bg})`}} id="skills">
       <h2>My Skills</h2>
       <div className="underline"></div>
-      <div className="hard-skills">
-        {hardSkills.map(skill => (
+      <div className="technical-skills">
+        {technicalSkills.map(skill => (
           <div key={skill.name} className="skill-bar">
             <span className="skill-name">{skill.name}</span>
             <div className="progress-bar">
