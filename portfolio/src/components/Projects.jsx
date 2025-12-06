@@ -11,7 +11,7 @@ import weather from "../assets/projects/weather.png";
 import weatherv from "../assets/projects/weather.mp4";
 import bg from "../assets/hero-bg.jpg";
 import note from "../assets/projects/note.png";
-import notev from "../assets/projects/note.mp4";
+import notev from "../assets/projects/Note.mp4";
 
 const projects = [
   { 
@@ -57,7 +57,7 @@ const projects = [
     title: "Note App",
     img: note, 
     video: notev, 
-    desc: "Add important notes and delete likewise note manipulation.",
+    desc: "Add important notes and delete notes-note manipulation.",
     category: "HTML+CSS+JS"
   },
 ];
