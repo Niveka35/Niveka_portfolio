@@ -11,10 +11,10 @@ function Hero() {
 
       <div className="hero-right">
         <h1 className="hero-title">Niveka Kugathasan</h1>
-        <h2 className="hero-subtitle">Front-End Developer | React & JavaScript</h2>
+        <h2 className="hero-subtitle">Fullstack Enthusiast | MERN</h2>
         <p className="hero-text">
-          I build modern, intuitive, visually appealing web experiences using
-          HTML, CSS, JavaScript & React.
+          I build modern, intuitive, visually appealing websites using
+          MERN stack.
         </p>
 
         <div className="hero-buttons">

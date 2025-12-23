@@ -9,9 +9,9 @@ function About() {
 
       <div className="about-card">
         <p>
-          I am a passionate front-end developer who enjoys building modern,
+          I am a passionate fullstack developer who enjoys building modern,
           intuitive, and visually appealing websites. With a foundation in HTML,
-          CSS, JavaScript, and React, I focus on creating clean interfaces and
+          CSS, JS, React, Express, Node, MongoDB I focus on creating clean interfaces and
           smooth user experiences.
         </p>
         <p>

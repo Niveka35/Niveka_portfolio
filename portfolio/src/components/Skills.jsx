@@ -7,9 +7,9 @@ function Skills() {
     { name: "CSS", level: 85 },
     { name: "JavaScript", level: 85 },
     { name: "React", level: 75 },
-    { name: "Git & GitHub", level: 70 },
-    { name: "UI/UX Basics", level: 60 },
-    { name: "Power BI", level: 65 }
+    { name: "Node", level: 80 },
+    { name: "Express", level: 75 },
+    { name: "MongoDB", level: 85 }
   ];
 
   // Soft skills (just listed, no percentage)
