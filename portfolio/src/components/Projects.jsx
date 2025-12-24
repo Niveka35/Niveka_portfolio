@@ -68,7 +68,7 @@ function Projects() {
   const [category, setCategory] = useState("All");
   const [hoveredIndex, setHoveredIndex] = useState(null);
 
-  const categories = ["All", "HTML+CSS+JS", "HTML+CSS+React+JS", "UI/UX"];
+  const categories = ["All", "HTML+CSS+JS", "HTML+CSS+React+JS"];
 
   // Filter projects based on category
   const filteredProjects = category === "All" 
